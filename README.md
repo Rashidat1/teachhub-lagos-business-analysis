@@ -165,9 +165,7 @@ Potential areas for further development include:
 ## Project Screenshots
 
 Screenshots of the platform will be added to the `screenshots/` directory to demonstrate the implemented features and user interface.
-
-<img width="1295" height="606" alt="image" src="https://github.com/user-attachments/assets/d6bae006-ac24-463f-be87-6c3376e6285b" />
-
+1.<img width="1295" height="606" alt="image" src="https://github.com/user-attachments/assets/d6bae006-ac24-463f-be87-6c3376e6285b" />
 
 ---
 
